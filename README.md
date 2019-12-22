@@ -1,6 +1,6 @@
 # w2encdec
 
-This is a simple Node.JS N-API Addon for encoding/decoding the MMORPG W2 packets
+This is a simple Node.JS N-API Addon for encoding/decoding the packets of MMORPG WYD2
 
 ## Depends
 
