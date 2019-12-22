@@ -4,7 +4,7 @@ This is a simple Node.JS N-API Addon for encoding/decoding the packets of MMORPG
 
 ## Depends
 
-* Testes with Node.js v12.10.0, but should work with other versions
+* Tested with Node.js v12.10.0, but should work with other versions
 
 ## Installing
 
